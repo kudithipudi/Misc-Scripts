@@ -55,10 +55,3 @@ for eachLine in inputFile:
                 fixed_url = convert_privatepaste_url(url)
                 print (compromised + ": " + fixed_url)
                 download_file(compromised, fixed_url)
-               # break
-            #else:
-             #   if 'pastesite.com' in url:
-              #      fixed_url = convert_pastesite_url(url)
-               #     print (compromised + ": " + fixed_url)
-                #    download_file(compromised, fixed_url)
-                 #   break
