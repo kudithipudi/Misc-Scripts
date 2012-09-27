@@ -15,6 +15,9 @@ infectedDirectory = 'C:\Users\Samurai\Desktop\check'
 
 def correctFileName(string):
         """ Return correct file name based on infected filename """
+		""" Takes files of the format """
+		""" Infected file?cod.scr and converts to """
+		""" Infected file.doc """
         #Check if the file is infected first
         if (string.find(".scr") != -1):
                 tempArray = string.split("?")
