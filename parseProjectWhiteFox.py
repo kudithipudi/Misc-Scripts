@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# parseProjectWhiteFox.py: Script parses the http URLs from ProjectWhieFox release
+# parseProjectWhiteFox.py: Script parses the http URLs from ProjectWhiteFox release
 # http://pastebin.com/agUFkEEa
 
 __author__      = "Vinay Kudithipudi"
